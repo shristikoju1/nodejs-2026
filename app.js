@@ -8,5 +8,5 @@
 // fruit("mangoes")
 // fruit(1)
 
-var fs = require("fs")
+const fs = require("fs")
 console.log(fs)
